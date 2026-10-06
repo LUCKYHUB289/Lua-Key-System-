@@ -10,11 +10,11 @@ return {
         max_devices = 20,
         SLOT = "1"
     },
-    ["DEMO123"] = {
-        type = "DEMO",
-        expiry = "2026-08-01",
+    ["LUCKY HUB DEMO"] = {
+        type = "@LUCKY_HUB_DEV",
+        expiry = "2026-10-06",
         valid = true,
-        max_devices = 5,
+        max_devices = 1,
         SLOT = "2"
     },
     ["SINGLE_USER"] = {
